@@ -1,0 +1,29 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.top-m{
+    margin-top: 7rem;
+}
+.panda-catagory-bg1{
+    background-color: #ffa500;
+}
+.panda-catagory-bg2{
+    background-color: #da70d6;
+}
+.panda-catagory-bg3{
+    background-color: #0000ff;
+}
+.catagories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    color: white;
+    background-color: #ff418c;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+    border: none;
+    border-radius: 8px;
+}
+.panda-rounded{
+    border-radius: 15px;
+}
